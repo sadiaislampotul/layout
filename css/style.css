@@ -1,0 +1,18 @@
+
+.header,.main,.body,.bar,.footer{
+    background-color: sandybrown
+   margin-bottom: 10px;
+}
+.box{
+    min-height: 80px;
+    background-color: blueviolet;
+    margin: 10px 0;
+   font-size: 25px;
+
+}
+.red{
+    background-color: limegreen;
+}
+.five{
+    background-color: aqua;
+}
